@@ -1,6 +1,6 @@
 # Sample-of-ML-Model-Jupyter-Lab
 
-These are the exsample of machine learning work 
+This is the exsample of machine learning work 
 - creating predictiction model of 
 airline passenger satisfaction 
 provided by course of Bogdan Staschuk 
